@@ -4,7 +4,8 @@
 [![DOI](https://zenodo.org/badge/975705705.svg)](https://doi.org/10.5281/zenodo.15312822)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-2025.02.09.637279-blue)](https://doi.org/10.1101/2025.02.09.637279)
-
+[![bioRxiv](https://img.shields.io/badge/Ecol.%20Lett.-ele.70269-blue)](https://doi.org/10.1111/ele.70269)
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/r-menezes/Range-Resident_Logistic_Model)
 
 ## Authorship
 
